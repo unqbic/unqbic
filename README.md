@@ -1,4 +1,9 @@
-## Hi there 👋
+## hello
+- web programmer technician
+- game programmer
+
+### 📖 languages i do know
+Java, PHP, SQL, Python, JavaScript, GDScript, C# and Visual Basic. HTM- I said languages.
 
 <!--
 **unqbic/unqbic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
